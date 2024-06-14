@@ -74,4 +74,4 @@ Enter your move (1-9): 5
 |   |   |   | 
 ```
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Eng-IbrahimElgammal/Tic-Tac-Toe-AI/blob/main/LICENSE) file for details.
