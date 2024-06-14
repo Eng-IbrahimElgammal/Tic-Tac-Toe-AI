@@ -13,7 +13,7 @@ Welcome to Tic-Tac-Toe, an implementation of the classic game with various AI al
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-ai.git
+    git clone https://github.com/Eng-IbrahimElgammal/tic-tac-toe-ai.git
     ```
 2. Navigate to the project directory:
     ```bash
