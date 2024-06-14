@@ -36,6 +36,7 @@ Welcome to Tic-Tac-Toe, an implementation of the classic game with various AI al
 
 ## Code Structure
 
+
 - `tic_tac_toe.py`: The main script containing the game logic and AI algorithms.
 - `xo_board(game_board)`: Function to display the Tic-Tac-Toe board.
 - `bfs(board)`, `dfs(board)`, `iddfs(board)`, `dls(board, depth, path)`, `ucs(board)`, `gbfs(board)`: Functions implementing the respective AI algorithms.
@@ -71,6 +72,6 @@ Enter your move (1-9): 5
 |   | X |   | 
 -------------
 |   |   |   | 
-
+```
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
